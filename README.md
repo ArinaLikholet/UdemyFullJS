@@ -1,2 +1,0 @@
-# fullJS
-learnig js
